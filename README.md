@@ -15,6 +15,7 @@ Funkcjonalnośc:
     -dodanie trybu gry dla 2 graczy 
     
  Biblioteki:
+   -UnityEngine 
    
  
  Narzędzia które planuje użyć:
