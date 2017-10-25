@@ -8,12 +8,20 @@ Funkcjonalnośc:
   -baza ok. 20 poziomów o różnych poziomach trudności
   -omijanie przeskód i przejście poziomu w jak naj krótszym czasie
   -zakończenie poziomu nie tracąc żyć
+   
   
-  #W przyszłość:
+  W przyszłość:
     -przeniesienie gry na urządzenia mobile
     -dodanie trybu gry dla 2 graczy
     
  Biblioteki:
+   
+ 
+ Narzędzia które planuje użyć:
+ 
+  -Unity
+  -Microsoft visual studio
+ 
  
   
   
