@@ -11,16 +11,16 @@ Funkcjonalnośc:
    
   
   W przyszłość:
-    -przeniesienie gry na urządzenia mobile
-    -dodanie trybu gry dla 2 graczy
+    -przeniesienie gry na urządzenia mobile 
+    -dodanie trybu gry dla 2 graczy 
     
  Biblioteki:
    
  
  Narzędzia które planuje użyć:
  
-  -Unity
-  -Microsoft visual studio
+  -Unity  
+  -Microsoft visual studio  
  
  
   
