@@ -4,7 +4,7 @@ Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie prz
 
 **Funkcjonalnośc:**   
   -sterowanie piłką za pomocą strzałek  
-  -baza ok. 20 poziomów o różnych poziomach trudności   
+  -baza ok. 10 poziomów o różnych poziomach trudności   
   -omijanie przeskód i przejście poziomu   
   -zakończenie poziomu nie tracąc żyć, każda śmerć rozpoczyna poziom od nowa 
    
