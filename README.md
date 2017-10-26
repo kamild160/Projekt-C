@@ -2,7 +2,7 @@
 
 Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie przeszkody oraz rozwiązując łamigłówki.
 
-**Funkcjonalnośc:** 
+**Funkcjonalnośc:**   
   -sterowanie piłką za pomocą strzałek  
   -baza ok. 20 poziomów o różnych poziomach trudności   
   -omijanie przeskód i przejście poziomu   
