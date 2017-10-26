@@ -2,8 +2,7 @@
 
 Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie przeskodu oraz rozwiązując łamigłówki.
 
-**Funkcjonalnośc:**
-
+**Funkcjonalnośc:** 
   -sterowanie piłką za pomocą strzałek  
   -baza ok. 20 poziomów o różnych poziomach trudności   
   -omijanie przeskód i przejście poziomu w jak naj krótszym czasie  
@@ -18,7 +17,7 @@ Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie prz
    -UnityEngine 
    
  
- **Narzędzia które planuje użyć:**
+ **Narzędzia które planuje użyć:**  
   -Blender  
   -Unity  
   -Microsoft visual studio  
