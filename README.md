@@ -11,14 +11,14 @@ Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie prz
    
   
  **W przyszłość:**
-    -przeniesienie gry na urządzenia mobile 
-    -dodanie trybu gry dla 2 graczy 
+    -przeniesienie gry na urządzenia mobile   
+    -dodanie trybu gry dla 2 graczy   
     
 **Biblioteki:**
    -UnityEngine 
    
  
- Narzędzia które planuje użyć:
+ **Narzędzia które planuje użyć:**
  
   -Unity  
   -Microsoft visual studio  
