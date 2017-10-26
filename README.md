@@ -1,12 +1,12 @@
 # Projekt C++
 
-Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie przeskodu oraz rozwiązując łamigłówki.
+Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie przeszkody oraz rozwiązując łamigłówki.
 
 **Funkcjonalnośc:** 
   -sterowanie piłką za pomocą strzałek  
   -baza ok. 20 poziomów o różnych poziomach trudności   
-  -omijanie przeskód i przejście poziomu w jak naj krótszym czasie  
-  -zakończenie poziomu nie tracąc żyć 
+  -omijanie przeskód i przejście poziomu   
+  -zakończenie poziomu nie tracąc żyć, każda śmerć rozpoczyna poziom od nowa 
    
   
  **W przyszłość:**  
