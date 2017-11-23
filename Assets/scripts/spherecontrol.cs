@@ -20,15 +20,29 @@ public class spherecontrol : MonoBehaviour
     void changeLayer()
     {
         //zmiana wartsw
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.UpArrow))
         {
-            layer = 1;
+            
+
+            bool isSomething = Physics.Raycast(transform.position, Vector3.forward, 2f); //sprawdza czy coś znajduje się na drodze kuli
+
+            if (!isSomething )
+            {
+                layer = 1;
+            }
+           
         }
 
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKeyDown(KeyCode.DownArrow))
         {
-            layer = 0;
+            bool isSomething = Physics.Raycast(transform.position, Vector3.back, 2f); //sprawdza czy coś znajduje się na drodze kuli
+
+            if (!isSomething)
+            {
+                layer = 0;
+            }
         }
+
         //przechodzenie warstw
         float delta = (layer * 2f - 2f) - rigidbody.position.z ;
 
