@@ -23,17 +23,17 @@ Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie prz
   -Microsoft visual studio  
  
  
- II raport :
- Co udało już udało mi się zrobić:
- -stworzyć podstawowy rozkład platform do poruszania sie kulką
- -stworzyc modele przeszkód(w blenderze) 
- -dodać elementy fizyki i możlowośc poruszania się kulką
+ II raport :  
+ Co udało już udało mi się zrobić:  
+ -stworzyć podstawowy rozkład platform do poruszania sie kulką  
+ -stworzyc modele przeszkód(w blenderze)  
+ -dodać elementy fizyki i możlowośc poruszania się kulką  
  
  Do zrobienia:
- -dodać możliwość śmierci
- -dodanie nowych elementów do gry(kolce itp.)
- -stworzenie kilku poziomów i dodanie możliwości ich wyboru
- -poprawiane wyglądu gry(zmiana kolorów, dodanie tekstur)
+ -dodać możliwość śmierci 
+ -dodanie nowych elementów do gry(kolce itp.) 
+ -stworzenie kilku poziomów i dodanie możliwości ich wyboru 
+ -poprawiane wyglądu gry(zmiana kolorów, dodanie tekstur) 
  
  
   
