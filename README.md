@@ -29,11 +29,11 @@ Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie prz
  -stworzyc modele przeszkód(w blenderze)  
  -dodać elementy fizyki i możlowośc poruszania się kulką  
  
- Do zrobienia:
- -dodać możliwość śmierci 
- -dodanie nowych elementów do gry(kolce itp.) 
- -stworzenie kilku poziomów i dodanie możliwości ich wyboru 
- -poprawiane wyglądu gry(zmiana kolorów, dodanie tekstur) 
+ Do zrobienia:  
+ -dodać możliwość śmierci  
+ -dodanie nowych elementów do gry(kolce itp.)  
+ -stworzenie kilku poziomów i dodanie możliwości ich wyboru  
+ -poprawiane wyglądu gry(zmiana kolorów, dodanie tekstur)  
  
  
   
