@@ -24,7 +24,7 @@ public class spherecontrol : MonoBehaviour
         {
             
 
-            bool isSomething = Physics.Raycast(transform.position, Vector3.forward, 2f); //sprawdza czy coś znajduje się na drodze kuli
+            bool isSomething = Physics.Raycast(transform.position, Vector3.forward, 2f); //sprawdza czy coś znajduje się na drodze kuli, zapobiega zepchaniu skrzyni
 
             if (!isSomething )
             {
@@ -35,7 +35,7 @@ public class spherecontrol : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.DownArrow))
         {
-            bool isSomething = Physics.Raycast(transform.position, Vector3.back, 2f); //sprawdza czy coś znajduje się na drodze kuli
+            bool isSomething = Physics.Raycast(transform.position, Vector3.back, 2f); //sprawdza czy coś znajduje się na drodze kuli,zapobiega zepchaniu skrzyni
 
             if (!isSomething)
             {
