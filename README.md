@@ -29,6 +29,13 @@ Gra 3D, przejście piłką z jednego miejsca do drugiego omijając wszystkie prz
  -stworzyc modele przeszkód(w blenderze)  
  -dodać elementy fizyki i możlowośc poruszania się kulką  
  
+ III Raport:  
+ -ulepszono funkcjonalność gry  
+ -dodano krysztaly do zzbierania, zebranie wszystkich kończy grę  
+ -śmierć po spadnięciu z planszy  
+ -poprawa działania śiwatła 
+
+ 
  Do zrobienia:  
  -dodać możliwość śmierci  
  -dodanie nowych elementów do gry(kolce itp.)  
